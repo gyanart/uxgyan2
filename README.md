@@ -21,3 +21,13 @@ Open `index.html` in a browser.
 
 ## GitHub Pages
 Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
+
+
+## Interactive case studies
+All four project pages use a shared responsive case-study framework and include an interactive concept:
+- `projects/aiops.html` — selectable incident dashboard (illustrative data)
+- `projects/uber.html` — ride-journey exploration (research hypotheses to validate)
+- `projects/ai-experiences.html` — scripted assistant interaction (not connected to an AI model)
+- `projects/design-systems.html` — live component and token playground
+
+Shared assets: `projects/project-styles.css` and `projects/project.js`.
